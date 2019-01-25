@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###This webapp is live at https://jrt781.github.io/react-gh-pages/
+### This webapp is live at https://jrt781.github.io/react-gh-pages/
 
 # Instructions
 
