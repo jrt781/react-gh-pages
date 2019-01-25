@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.ecd9c30c.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.ef527c5d.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.ef527c5d.chunk.js.map",
-  "static/css/1.ea82fb15.chunk.css": "/react-gh-pages/static/css/1.ea82fb15.chunk.css",
-  "static/js/1.9d0ad9c7.chunk.js": "/react-gh-pages/static/js/1.9d0ad9c7.chunk.js",
-  "static/js/1.9d0ad9c7.chunk.js.map": "/react-gh-pages/static/js/1.9d0ad9c7.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/css/1.ea82fb15.chunk.css.map": "/react-gh-pages/static/css/1.ea82fb15.chunk.css.map",
-  "static/css/main.ecd9c30c.chunk.css.map": "/react-gh-pages/static/css/main.ecd9c30c.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.ebb537f6c6ad6345b0f6edb92f098405.js": "/react-gh-pages/precache-manifest.ebb537f6c6ad6345b0f6edb92f098405.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/yeet/static/css/main.ecd9c30c.chunk.css",
+  "main.js": "/yeet/static/js/main.87c37afb.chunk.js",
+  "main.js.map": "/yeet/static/js/main.87c37afb.chunk.js.map",
+  "static/css/1.ea82fb15.chunk.css": "/yeet/static/css/1.ea82fb15.chunk.css",
+  "static/js/1.9d0ad9c7.chunk.js": "/yeet/static/js/1.9d0ad9c7.chunk.js",
+  "static/js/1.9d0ad9c7.chunk.js.map": "/yeet/static/js/1.9d0ad9c7.chunk.js.map",
+  "runtime~main.js": "/yeet/static/js/runtime~main.a7e3308c.js",
+  "runtime~main.js.map": "/yeet/static/js/runtime~main.a7e3308c.js.map",
+  "static/css/main.ecd9c30c.chunk.css.map": "/yeet/static/css/main.ecd9c30c.chunk.css.map",
+  "static/css/1.ea82fb15.chunk.css.map": "/yeet/static/css/1.ea82fb15.chunk.css.map",
+  "index.html": "/yeet/index.html",
+  "precache-manifest.0aae5be9e02095ccb26be3cbe621214f.js": "/yeet/precache-manifest.0aae5be9e02095ccb26be3cbe621214f.js",
+  "service-worker.js": "/yeet/service-worker.js"
 }
