@@ -1,16 +1,37 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+###This webapp is live at https://jrt781.github.io/react-gh-pages/
+
 # Instructions
 
-TODO
+If you would like to use this as a baseline for your project:
+
+1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/) and set up your own GitHub repository.
+2. Run `npm install` in terminal in the root folder of the project. (Check [here](https://www.npmjs.com/get-npm) to download npm if you haven't already)
+3. Open `package.json` and find the `"homepage"` variable.
+   * Currently the variable looks like this:
+   `"homepage": "http://jrt781.github.io/react-gh-pages",`
+   * Change `jrt781` to be your GitHub username
+   * Change `react-gh-pages` to be whatever you named your repository
+4. During development, run `npm start` to see your project locally
+5. To publish your website or make updates, run `npm run deploy`. 
+   This will build your webapp for production and publish the changes to 
+   the website you listed as your `"homepage"` variable in step 3. <strong>Note that
+   the website may take a few minutes to update.</strong>
+   
+Explore the `src` folder to look at how the project is structured so you can modify it for your purposes.
+
 
 # Enhancing an Existing Project
 
-If you want to use React Router on an already existing React project, run the following in your terminal:
+### React Router
+If you want to use React Router on an already existing React project, 
+run the following in your terminal:
 
 ```
 npm install --save react-router-dom
 ```
+### Bootstrap
 
 If you want Bootstrap for an already existing React project:
 
@@ -18,13 +39,24 @@ If you want Bootstrap for an already existing React project:
 npm install --save bootstrap
 ```
 
+Then, include the following import in your `index.js` file (the file
+location might be slightly different based on where you place your 
+`index.js`; here it assumes the file is in the `src` folder under the 
+root folder of the project):
+
+```
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+``` 
+
 # IDE Instructions
-If you are developing using IntelliJ IDEA or a similar program, then the `process.env.PUBLIC_URL` in 
-`index.js` may not be recognized at first by the IDE. To fix this:
+If you are developing using IntelliJ IDEA or a similar program, then 
+the `process.env.PUBLIC_URL` in `index.js` may not be recognized at 
+first by the IDE. To fix this:
 1. Open your settings
 2. Expand the “Languages & Frameworks” category
 3. Select “Node.js and NPM”
-4. Check the box labelled “Coding assistance for Node.js” and choose you project
+4. Check the box labelled “Coding assistance for Node.js” and choose 
+your project
 
 # Available Scripts
 
