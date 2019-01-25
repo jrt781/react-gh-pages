@@ -21,6 +21,21 @@ If you would like to use this as a baseline for your project:
    
 Explore the `src` folder to look at how the project is structured so you can modify it for your purposes.
 
+## Personalizing This Project
+
+### Changing the Font
+
+There are a lot of great fonts from [Google Fonts](https://fonts.google.com/). Select ones you would like to use, and 
+get the provided link tag to use them in the project. For example:
+
+```
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+```
+
+Once you have the link tag, place this inside the `<head>` tag in `/public/index.html`.
+
+Then, open `/src/index.css` and modify `font-family` property under `* {...}`.
+
 
 # Enhancing an Existing Project
 
