@@ -22,6 +22,9 @@ class App extends React.Component {
 							<li className="nav-item">
 								<Link className="nav-link" to="/about" activeclassname="active">About</Link>
 							</li>
+							<li className="nav-item">
+								<Link className="nav-link" to="/material" activeclassname="active">Material</Link>
+							</li>
 						</ul>
 					</div>
 				</nav>

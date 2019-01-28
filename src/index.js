@@ -6,6 +6,7 @@ import * as serviceWorker from './serviceWorker';
 import App from "./components/App";
 import HomePage from "./components/home/HomePage";
 import AboutPage from "./components/about/AboutPage";
+import MaterialPage from "./components/material/MaterialPage";
 
 import './index.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
@@ -16,6 +17,7 @@ ReactDOM.render(
 			<Route path='/' component={App} />
 			<Route exact path='/' component={HomePage} />
 			<Route exact path='/about' component={AboutPage} />
+			<Route exact path='/material' component={MaterialPage} />
 		</div>
 	</BrowserRouter>,
 	document.getElementById('root')

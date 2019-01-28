@@ -1,0 +1,11 @@
+.card {
+	width: 345px;
+	margin: 1em;
+	font-family: "Roboto", sans-serif;
+	display: inline-block;
+	float: left;
+}
+
+.media {
+	height: 140px;
+}

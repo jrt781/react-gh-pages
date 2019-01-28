@@ -36,6 +36,9 @@ Once you have the link tag, place this inside the `<head>` tag in `/public/index
 
 Then, open `/src/index.css` and modify `font-family` property under `* {...}`.
 
+### Centering
+
+CSS can be frustrating. This website has saved me so many times: [How to Center in CSS](http://howtocenterincss.com)
 
 # Enhancing an Existing Project
 
@@ -62,6 +65,14 @@ root folder of the project):
 ```
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 ``` 
+
+### Material Design
+
+Run:
+
+```
+npm install @material-ui/core
+```
 
 # IDE Instructions
 If you are developing using IntelliJ IDEA or a similar program, then 

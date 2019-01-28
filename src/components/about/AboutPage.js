@@ -9,8 +9,8 @@ class AboutPage extends React.Component {
 			<div style={{padding: '2rem 5rem'}}>
 				<h1>About</h1>
 				<p>This application uses React, React Router, and a variety of other helpful libraries.</p>
-				<p>Check out the <a href={'https://github.com/jrt781/react-gh-pages'} target="_blank" >GitHub repository</a> to look at
-					the code and see some helpful instructions</p>
+				<p>Check out the <a href={'https://github.com/jrt781/react-gh-pages'} target="_blank" rel="noopener noreferrer">
+					GitHub repository</a> to look at the code and see some helpful instructions</p>
 			</div>
 		);
 	}
