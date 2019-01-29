@@ -12,12 +12,14 @@ If you would like to use this as a baseline for your project:
 git clone https://github.com/jrt781/react-gh-pages.git my-cs356-project
 ```
 
-Change "my-cs356-project" to whatever you want to name your project.
+   Change "my-cs356-project" to whatever you want to name your project.
 
 2. Run `npm install` in terminal in the root folder of the project. (Check [here](https://www.npmjs.com/get-npm) to download npm if you haven't already)
 3. Open `package.json` and find the `"homepage"` variable.
    * Currently the variable looks like this:
-   `"homepage": "http://jrt781.github.io/react-gh-pages",`
+   ```
+   "homepage": "http://jrt781.github.io/react-gh-pages",
+   ```
    * Change `jrt781` to be your GitHub username
    * Change `react-gh-pages` to be whatever you named your repository (if you just
      copied and pasted from above, then it's `my-cs356-project`)
