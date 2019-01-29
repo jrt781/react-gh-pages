@@ -16,9 +16,9 @@ If you would like to use this as a baseline for your project:
 
 3. Open `package.json` and find the `"homepage"` variable.
    * Currently the variable looks like this:
-   ```
-   "homepage": "http://jrt781.github.io/react-gh-pages",
-   ```
+     ```
+     "homepage": "http://jrt781.github.io/react-gh-pages",
+     ```
    * Change `jrt781` to be your GitHub username
    * Change `react-gh-pages` to be whatever you named your repository (if you just
      copied and pasted from above, then it's `my-cs356-project`)
