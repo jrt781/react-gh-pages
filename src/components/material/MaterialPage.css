@@ -1,0 +1,11 @@
+#material-page-root {
+	padding: 2rem 5rem 5rem;
+}
+
+.media {
+	height: 200px;
+}
+
+.text-input {
+	margin: 1em !important;
+}
