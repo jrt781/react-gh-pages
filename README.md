@@ -2,6 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### This webapp is live at https://jrt781.github.io/react-gh-pages/
 
+This project was built following the instructions 
+found [here](https://github.com/gitname/react-gh-pages).
+This is great for deploying a brand new React web app.
+
+If you'd like to use React Router and start with a basic structure,
+follow the instructions below.
+
 # Instructions
 
 If you would like to use this as a baseline for your project:
